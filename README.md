@@ -43,10 +43,12 @@ Entorno de hospedaje administrado; el proveedor de servicios en la nube administ
 
 El proveedor de servicios administra todos los aspectos del entorno (máquinas virtuales, recursos de red, almacenamiento de datos y aplicaciones) y el usuario solo debe proporcionar sus datos.
 
-
+![Figura-2-Modelos-de-Servicio-de-la-Computacion-en-la-Nube-y-Tipo-de-Usuarios-Asociados](https://user-images.githubusercontent.com/83736756/117562579-969d2a80-b065-11eb-9038-993d38b487df.png)
+                                                                                                      
 ## Azure
-
 Es un conjunto de servicios en la nube que tiene una expansión constante y nos ayuda en la organización para cumplir los desafios empresariales actuales y futuros; también nos ofrece la libertad para la compilación, administración e implementación de aplicaciones en una red global masiva mediante sus herramientas y plataformas.
+
+![microsoft-azure-cloud-logo](https://user-images.githubusercontent.com/83736756/117562587-a61c7380-b065-11eb-9e0f-a9f26b7ccd20.png)
 
 ### Ventajas de Azure.
 
