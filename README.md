@@ -1,5 +1,6 @@
 
 ## ¿Qué es la nube?
+![Nube](https://user-images.githubusercontent.com/83736756/117562207-ca2a8580-b062-11eb-901e-313aa04907a3.jpg)
 
 La nube es el nombre que le damos al servicio de almacenamiento de datos a servidores localizados en la red. Esta modalidad permite subir, abrir, modificar o usar programas y archivos a través de una conexión sin la necesidad de que se encuentren en el almacenamiento del dispositivo que usas.
 
