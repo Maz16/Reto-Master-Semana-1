@@ -55,10 +55,12 @@ Es un conjunto de servicios en la nube que tiene una expansión constante y nos 
 
 - Integrar y administrar entornos con herramienta y servicios.
 
-- Provee seguridad.
+- Provee seguridad
 
 ### Objetivos de Azure.
 
 Los objetivos de Azure son el poder ejecutar aplicaciones en máquinas virtuales, hasta poder explorar nuevos modelos de software como lo son los bots inteligentes; también propor cionar servicios de IA y aprendizaje automático, y finalmente busca facilitar soluciones de almacenamiento.
-
 :)
+
+![448-4486967_buap-png-benemrita-universidad-autnoma-de-puebla-transparent](https://user-images.githubusercontent.com/83736756/117561304-5d5fbd00-b05b-11eb-9a6a-58c7af3f1453.png)
+
